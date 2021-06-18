@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CasiersComponent implements OnInit {
 
+  lastUpdate = new Date();
   constructor() { }
 
   ngOnInit(): void {

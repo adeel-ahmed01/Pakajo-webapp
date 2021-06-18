@@ -1,0 +1,52 @@
+{
+    "partenaires": [{
+            "id": 1,
+            "nom_association": "1001Potes",
+            "nom_contact": "Ghislain",
+            "prenom_contact": "Kamil"
+        },
+        {
+            "id": 2,
+            "nom_association": "1002Potes",
+            "nom_contact": "Ghislaine",
+            "prenom_contact": "Kamilia"
+        },
+        {
+            "id": 3,
+            "nom_association": "Safe",
+            "nom_contact": "Alain",
+            "prenom_contact": "Sarah"
+        }
+    ],
+    "benevoles": [{
+            "id": 2,
+            "nom": "Wick",
+            "prenom": "John"
+        },
+        {
+            "id": 3,
+            "nom": "Goku",
+            "prenom": "Son"
+        },
+        {
+            "id": 4,
+            "nom": "Moon",
+            "prenom": "Sailor"
+        },
+        {
+            "id": 5,
+            "nom": "Boy",
+            "prenom": "Astro"
+        },
+        {
+            "id": 1,
+            "nom": "Muto",
+            "prenom": "Yugi"
+        },
+        {
+            "id": 6,
+            "nom": "Bond",
+            "prenom": "James"
+        }
+    ]
+}

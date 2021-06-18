@@ -1,1 +1,14 @@
-<p>casiers works!</p>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Mes casiers</h2>
+
+            <p>Mis à jour : {{ lastUpdate | date: 'medium' | uppercase }} </p>
+
+            <ul class="list-group">
+                <!-- <app-casier *ngFor="let casier of casiers" [casierNumero]="casier.numero" [casierOccupant]="casier.occupant"></app-casier> -->
+            </ul>
+            <!-- <button class="btn btn-success" [disabled]="!isAuth" (click)="onAllumer()">Tout allumer</button> -->
+        </div>
+    </div>
+</div>
